@@ -1,0 +1,17 @@
+{
+  "name": "orbeater",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "QuickCoder",
+  "license": "ISC"
+}
